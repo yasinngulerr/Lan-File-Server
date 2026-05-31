@@ -3,6 +3,10 @@
 A lightweight, dependency-free file sharing server for local networks. 
 Built with Go's standard library — no external packages required.
 
+## Screenshot
+
+![LAN File Server UI](screenshots/server-ui.png)
+
 ## Features
 
 - 📁 **File Upload** — Drag and drop via web interface
@@ -15,7 +19,7 @@ Built with Go's standard library — no external packages required.
 
 ```bash
 # Clone and run
-git clone https://github.com/YasinGuler/lan-file-server.git
+git clone https://github.com/yasinngulerr/lan-file-server.git
 cd lan-file-server
 
 # Create uploads directory
