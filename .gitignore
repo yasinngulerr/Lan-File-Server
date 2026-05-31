@@ -1,0 +1,23 @@
+## .gitignore
+
+```gitignore
+
+# Binary
+lan-file-server
+lan-server
+*.exe
+
+# Uploads (user data, don't commit)
+
+uploads/
+
+# Go
+*.test
+*.out
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
